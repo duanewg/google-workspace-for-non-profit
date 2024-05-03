@@ -25,7 +25,7 @@ Established a new Google Workspace domain for a non profit in order to modernize
     - Google Meet for video conferencing 
     - Google Chat for team messaging
 - Train Users
-- Manage Billing and Subscriptions
+- Setup Google Workspace Sync on all client workstations
 
 
 <h2>Architecture Diagram</h2>
