@@ -1,28 +1,36 @@
 <p align="center">
-<img src="https://place-hold.it/600x200" alt="Place Holder Image"/>
-<!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
+<!--img src="https://place-hold.it/600x200" alt="Place Holder Image"/-->
+<img src="assets/google-workspace.jpeg" alt="Google Workspace" />
 </p>
 
-# Project Title
-"[Project Name]" involves [briefly describe the main objective or purpose of the project] utilizing [mention any specific tools, technologies, or platforms]. This project aims to [mention the primary goal or outcome] to [highlight the intended impact or benefit].
+# Google Workspace for Non Profit 
+Established a new Google Workspace domain for a non profit in order to modernize communication and collaboration infrastructure.  The organization previosuly had no domain infrastructure which presented inefficiencies, security vulnerabilities, difficulties in collaboration, and resource management.
 
 ## Environments and Technologies Used
 
-- Item 1
-- Item 2
-- Item 3
+- Google Workspace
 
 ## Operating Systems Used
 
-- Operating System Name
+- Windows 10
 
 ## High-Level Deployment and Configuration Steps
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-- Step 5
+- Sign Up for Google Workspace
+- Verify Domain Ownership
+- Set Up User Accounts
+- Configure Email
+- Customize Settings
+    - organizational units for different teams, 
+    - configuring sharing settings for Google Drive and other services  
+    - enabling or disabling certain features based on your preferences
+- Enable Additional Services
+    - Google Meet for video conferencing, 
+    - Google Chat for team messaging, and 
+    - Google Sites for building internal websites.
+- Train Users
+- Manage Billing and Subscriptions
+
 
 <h2>Architecture Diagram</h2>
 
