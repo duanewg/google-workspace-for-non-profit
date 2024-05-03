@@ -1,6 +1,5 @@
 <p align="center">
-<!--img src="https://place-hold.it/600x200" alt="Place Holder Image"/-->
-<img src="assets/google-workspace.jpeg" alt="Google Workspace" />
+<img src="assets/google-workspace.jpeg" width="400" alt="Google Workspace" />
 </p>
 
 # Google Workspace Administration for Non Profit 
