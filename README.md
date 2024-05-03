@@ -16,17 +16,14 @@ Established a new Google Workspace domain for a non profit in order to modernize
 ## High-Level Deployment and Configuration Steps
 
 - Sign Up for Google Workspace
-- Verify Domain Ownership
+- Create DNS records to verify domain ownership
 - Set Up User Accounts
 - Configure Email
-- Customize Settings
-    - organizational units for different teams, 
-    - configuring sharing settings for Google Drive and other services  
-    - enabling or disabling certain features based on your preferences
+- Configure Email Distributions
+- Configure Domain Alias
 - Enable Additional Services
-    - Google Meet for video conferencing, 
-    - Google Chat for team messaging, and 
-    - Google Sites for building internal websites.
+    - Google Meet for video conferencing 
+    - Google Chat for team messaging
 - Train Users
 - Manage Billing and Subscriptions
 
