@@ -3,7 +3,7 @@
 <img src="assets/google-workspace.jpeg" alt="Google Workspace" />
 </p>
 
-# Google Workspace for Non Profit 
+# Google Workspace Administration for Non Profit 
 Established a new Google Workspace domain for a non profit in order to modernize communication and collaboration infrastructure.  The organization previosuly had no domain infrastructure which presented inefficiencies, security vulnerabilities, difficulties in collaboration, and resource management.
 
 ## Environments and Technologies Used
